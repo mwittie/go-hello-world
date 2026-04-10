@@ -31,5 +31,5 @@ go.work.sum
 hello-world
 
 # Editor/IDE
-# .idea/
+.idea/
 # .vscode/
